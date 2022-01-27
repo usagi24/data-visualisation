@@ -1,2 +1,2 @@
-# data-visualisation-
+# Data-visualisation
 Data visualisation using seaborn
